@@ -6,7 +6,7 @@ Versiones finales de los códigos asociados al desarrollo de diferentes recommen
 Todo fue realizado para mi tesis de licenciatura.
 Repositorio generado en julio de 2024.
 
-Se incluyen los siguientes modelos:
+Se incluyen los siguientes archivos:
 1. Recommender System para una detección eficiente de adsorbentes
 2. Recommender System para predicción de aparición y desaparición de comercios minoristas
 3. Recommender System para recomendación de películas
